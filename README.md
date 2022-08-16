@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, soy Agustin Arraya</h1>
-<h3 align="center">Desarrollador web Full-stack de Córdoba,Argentina</h3>
-
+<h1 align="center">Hi 👋, I am Agustin Arraya</h1>
+<h3 align="center">Full stack web developer from Córdoba,Argentina</h3>
+<h2Projects</h2>
 - 👨‍💻PI-Countries [PI-Countries-main](https://github.com/ArrayaAgustin/PI-Countries-main.git)
 
 - 👨‍💻PF-Buspack-Travel [PF-grupo-09](https://github.com/ArrayaAgustin/PF-grupo-09.git)
